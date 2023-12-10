@@ -1,2 +1,2 @@
 # Query-a-Digital-Music-Store-Database-Using-SQL-
-In this project, I queried the Chinook Database using creative questions and then wrote a SQL query to pull the data needed to answer the questions successfully.
+In this project, I queried the Chinook Database using creative questions and then wrote SQL queries to pull the data needed to answer the questions successfully. The Chinook Database holds information about a music store. For this project, I wanted to assist the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. 
